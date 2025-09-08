@@ -60,7 +60,8 @@ h2{
     font-size: calc(1rem + 1.5vw);
     line-height: 1.5;
     text-align: center;
-    padding-top:.5rem; 
+    padding-top:.5rem;
+    color: var(--rojo-principal);
 }
 
 h3{
