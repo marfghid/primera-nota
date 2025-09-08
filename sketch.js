@@ -1,6 +1,6 @@
 const trabajitos = [
     {
-        photo: "https://github.com/marfghid/primera-nota/blob/main/12%20(1).webp?raw=true",
+        photo: "https://github.com/marfghid/primera-nota-miau/blob/main/12%20(1).webp?raw=true",
         title: "Infografía Packaging Sensacional.",
         description: "Trabajo de Procesos y Prototipos I, con Prof. Pamela Fuentes."
     },
@@ -20,7 +20,7 @@ const trabajitos = [
         description: "Trabajo de Proyecto I, con Prof. René Perea."
     },
    {
-        photo: "https://github.com/marfghid/primera-nota/blob/main/IMG_4825%20(1).webp?raw=true",
+        photo: "https://github.com/marfghid/primera-nota-miau/blob/main/IMG_4825%20(1).webp?raw=true",
         title: "Infografía Forensic Architecture.",
         description: "Trabajo de Proyecto III, con Prof. Clarisa Menteguiaga."
     },    
